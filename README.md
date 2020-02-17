@@ -1,4 +1,4 @@
-# Repo C
+# Atividades linguagem C
 
 Atividades desenvolvidas em sala de aula na disciplina de Introdução a Programação utilizando linguagem C.
 
