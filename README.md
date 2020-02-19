@@ -1,6 +1,6 @@
-# Atividades linguagem C
+# Práticas de linguagem C
 
-Atividades desenvolvidas em sala de aula na disciplina de Introdução a Programação utilizando linguagem C.
+Atividades desenvolvidas em sala de aula na disciplina de Introdução a Programação(IP) utilizando linguagem C.
 
 ## Ementa da disciplina
 
