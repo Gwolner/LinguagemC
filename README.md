@@ -1,6 +1,6 @@
 # Práticas de linguagem C
 
-Atividades desenvolvidas em sala de aula durante a disciplina de Introdução a Programação utilizando linguagem C.
+> Atividades desenvolvidas em sala de aula durante a disciplina de Introdução a Programação utilizando linguagem C.
 
 ## Ementa da disciplina
 
